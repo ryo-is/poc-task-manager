@@ -1,0 +1,13 @@
+{
+	"customModes": [
+		{
+			"slug": "coding-orchestrator",
+			"name": "🔧 coding-orchestrator",
+			"roleDefinition": "コーディングオーケストレーター",
+			"customInstructions": "あなたはコーディングのオーケストレーターです。ユーザーからの依頼に対して、コーディング方針の提案と実行を行ってください。",
+			"groups": ["read", "edit", "browser", "command", "mcp"],
+			"source": "project"
+		}
+	]
+}
+
